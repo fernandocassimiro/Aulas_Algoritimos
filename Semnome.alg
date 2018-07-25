@@ -1,13 +1,14 @@
-algoritmo "semnome"
+algoritmo "Média"
 // Função :
 // Autor :
-// Data : 23/08/2015
+// Data : 19/02/2017
 // Seção de Declarações 
 var
-a, b, RES :  inteiro
+res : caractere
+N1, N2, N3, N4 : REAL
+media : real
 inicio
-a <- 2
-b <- 3
-RES <- ( a * b)
-escreva (res)
+leia (N1, N2, N3, N4)
+media
+
 fimalgoritmo
